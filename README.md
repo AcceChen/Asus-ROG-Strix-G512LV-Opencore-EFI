@@ -1,4 +1,4 @@
-# Asus-G15-G512lv-Opencore-EFI
+# Asus ROG Strix G512LV Opencore EFI
 <li>OpenCore EFI for Asus ROG Strix G512LV Compatible with Ventura</li>
 <li>This EFI is modified from Ehsan Rabipour</li>
 <li>Only tested on macOS Ventura</li>
